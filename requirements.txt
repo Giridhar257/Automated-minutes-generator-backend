@@ -1,16 +1,9 @@
 fastapi==0.111.1
 uvicorn==0.25.0
-spacy==3.8.7
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 pydantic==2.11.8
 python-multipart==0.0.20
 openai-whisper==20250625  
-transformers==4.56.1
-torch==2.8.0    
 pydub==0.25.1  
-numpy==2.2.6  
 python-dotenv==1.1.1  
-streamlit==1.49.1
 torchvision==0.23.0
 torchaudio==2.8.0
-SpeechRecognition==3.14.3
